@@ -1,0 +1,25 @@
+1) in this assignment is used all taught  concept of oops.
+2)i  used class and object and inheritance concept 
+and used super keyword for using parent class constructor in 
+inherit child class .
+3) i used encapsulation concept (access modifier public, private ,public)
+and setter and getter in oops.  
+
+4)understand oops concept and accordinf to concept i made facebook.ts and youtube.ts 
+and run this file via ($ tsc filename) command which are used to produce normal plain
+complie js file and them include these file into youtube.html  and facebook.html.
+
+5)basis of these class i made objects of class and i used properties and method 
+and show in html file.
+
+GitHub
+=====================
+all code added to central respository in github via below given command
+
+git init
+git add --all
+git commit -m "my first commit"
+git remote add origin https://github.com/shubhamagnihotri/oopsone.git
+git push -u origin master
+
+
